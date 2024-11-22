@@ -7,4 +7,4 @@
 - [Carte percée Koursk](https://www.diploweb.com/IMG/pdf/carte-offensive-ukraine-en-russie-a-koursk-6-aout-1-septembre-2024-grassaud-diploweb.pdf)
 - [Carte Koursk en temps réel](https://storymaps.arcgis.com/stories/83a2f24901c941d581c0c523ecd2619b)
 - [ITAR](https://www.pmddtc.state.gov/ddtc_public/ddtc_public?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987)
-- 
+- [Protocole I Conventions de Genève](https://www.ohchr.org/fr/instruments-mechanisms/instruments/protocol-additional-geneva-conventions-12-august-1949-and)
